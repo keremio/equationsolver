@@ -1,0 +1,10 @@
+C:\Users\Kerem Yakutlu\source\repos\quadratic\quadratic\bin\Debug\quadratic.exe.config
+C:\Users\Kerem Yakutlu\source\repos\quadratic\quadratic\bin\Debug\quadratic.exe
+C:\Users\Kerem Yakutlu\source\repos\quadratic\quadratic\bin\Debug\quadratic.pdb
+C:\Users\Kerem Yakutlu\source\repos\quadratic\quadratic\obj\Debug\quadratic.csprojAssemblyReference.cache
+C:\Users\Kerem Yakutlu\source\repos\quadratic\quadratic\obj\Debug\quadratic.Form1.resources
+C:\Users\Kerem Yakutlu\source\repos\quadratic\quadratic\obj\Debug\quadratic.Properties.Resources.resources
+C:\Users\Kerem Yakutlu\source\repos\quadratic\quadratic\obj\Debug\quadratic.csproj.GenerateResource.cache
+C:\Users\Kerem Yakutlu\source\repos\quadratic\quadratic\obj\Debug\quadratic.csproj.CoreCompileInputs.cache
+C:\Users\Kerem Yakutlu\source\repos\quadratic\quadratic\obj\Debug\quadratic.exe
+C:\Users\Kerem Yakutlu\source\repos\quadratic\quadratic\obj\Debug\quadratic.pdb
